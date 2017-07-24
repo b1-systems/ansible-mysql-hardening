@@ -1,1 +1,4 @@
-- src: geerlingguy.mysql
+---
+- src: git@github.com:b1-systems/ansible-role-mysql.git
+  scm: git
+  version: master
